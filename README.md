@@ -1,3 +1,11 @@
+# Inheritance
+###### inheritance is a process in which one object acquires all the properties and behaviors of its parent object automatically. In such way, you can reuse, extend or modify the attributes and behaviors which is defined in other class.
+> Inheritance. Constructors' calls sequence
+> Inheriting from a base class
+> Inheriting from a class and implementing an interface
+> Inheriting from a class and implementing multiple interfaces
+> Constructors In A Subclass
+
 # Polymorphism
 ## Ad hoc polymorphism:
 ###### contains function overloading. The target is that a Method can be used with different types without the need of being generic.
