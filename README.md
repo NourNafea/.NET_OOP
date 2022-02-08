@@ -9,3 +9,4 @@
 ```: InterfaceName, ISecondInterface```
 # Abstraction
 ###### A class marked with the keyword abstract cannot be instantiated. A class must be marked as abstract if it contains abstract members or if it inherits abstract members that it doesn't implement. A class may be marked as abstract even if no abstract members are involved. Abstract classes are usually used as base classes when some part of the implementation needs to be specified by another component. 
+###### A method, property, or event marked with the keyword abstract indicates that the implementation for that member is expected to be provided in a subclass. As mentioned above, abstract members can only appear in abstract classes.
