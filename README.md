@@ -5,8 +5,11 @@
 >Inheriting from a base class
 <br />
 >Inheriting from a class and implementing an interface
+<br />
 >Inheriting from a class and implementing multiple interfaces
+<br />
 >Constructors In A Subclass
+<br />
 
 # Polymorphism
 ## Ad hoc polymorphism:
