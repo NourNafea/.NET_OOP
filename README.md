@@ -1,15 +1,15 @@
 # Inheritance
 ###### inheritance is a process in which one object acquires all the properties and behaviors of its parent object automatically. In such way, you can reuse, extend or modify the attributes and behaviors which is defined in other class.
 >Inheritance. Constructors' calls sequence
-<br />
+>
 >Inheriting from a base class
-<br />
+>
 >Inheriting from a class and implementing an interface
-<br />
+>
 >Inheriting from a class and implementing multiple interfaces
-<br />
+>
 >Constructors In A Subclass
-<br />
+
 
 # Polymorphism
 ## Ad hoc polymorphism:
